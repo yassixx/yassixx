@@ -5,9 +5,7 @@
     <td valign="top">
 
 - 🔭 Je travaille actuellement sur **EasyCar** - Plateforme complète de vente de voitures en ligne.
-- 🌱 J'améliore actuellement mes compétences en **JS et React**
-- 💬 Posez-moi des questions sur **PHP**, **C#**, **Symfony**, **JS** et la programmation en général
-- 📫 Comment me joindre **Email :** [contact@fakiriyassine.fr](mailto:contact@fakiriyassine.fr)
+- 📫 Comment me joindre **Email :** [yassineyassine0012@gmail.com](mailto:yassineyassine@gmail.com)
 - 👨‍💻 Mon portfolio : [fakiriyassine.fr](https://fakiriyassine.fr/)
 - 📄 En savoir plus sur mes expériences : [Mon CV](bientot_dispo)
 
